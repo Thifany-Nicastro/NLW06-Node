@@ -14,6 +14,28 @@ As principais ferramentas usadas:
   <img width="50" title="Typescript" alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
 </a> &#xa0; &#xa0;
 
+## 📚 Conteúdo da semana
+
+#### Dia 1
+
+- [x] Configuração incial e instalação de dependências
+
+#### Dia 2
+
+- [x] Criando estrutura de usuário
+
+#### Dia 3
+
+- [ ] 
+
+#### Dia 4
+
+- [ ] 
+
+#### Dia 5
+
+- [ ] 
+
 ## :white_check_mark: Pré-requisitos ##
 
 - [Git](https://git-scm.com)
