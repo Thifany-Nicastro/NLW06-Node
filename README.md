@@ -26,15 +26,15 @@ As principais ferramentas usadas:
 
 #### Dia 3
 
-- [ ] 
+- [x] Continuando a nossa aplicação
 
 #### Dia 4
 
-- [ ] 
+- [x] Trabalhando com websocket
 
 #### Dia 5
 
-- [ ] 
+- [x] Finalizando o projeto
 
 ## :white_check_mark: Pré-requisitos ##
 
