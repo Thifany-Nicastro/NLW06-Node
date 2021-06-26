@@ -1,6 +1,6 @@
 ## :dart: Sobre ##
 
-Projeto desenvolvido durante a trilha de Node.js no evento NLW/Together da Rocketseat 🚀💜
+Projeto desenvolvido durante a trilha de Node.js no evento NLW#06 da Rocketseat 🚀💜
 
 ## :rocket: Tecnologias ##
 
